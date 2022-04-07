@@ -1,0 +1,24 @@
+/* General Styles */
+body {
+    background-color: #282c34 ;
+    font-family: arial;
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+}
+
+li {
+    display: inline-block;
+}
+
+
+/* Nav Bar Styles */
+.NavBar1 li {
+    margin-right: 40px;
+}
+
